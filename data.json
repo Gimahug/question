@@ -2,13 +2,14 @@
     {
         "id":1,
         "group_id":1,
+        "count":1,
         "sentence": "David denied ___the money.",
+        "options":"stealing,to steal",
+        "answer":"stealing",
+        "analysis":"deny [否认]后接动名词。",
+        "remark":"【永春高中】",
+        "have_video":1,
         "is_collect":true
-    },
-    {
-        "id":2,
-        "group_id":1,
-        "sentence": "David denied ___the money.",
-        "is_collect":false
     }
+
 ]

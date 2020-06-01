@@ -10,6 +10,18 @@
         "remark":"【永春高中】",
         "have_video":1,
         "is_collect":true
+    },
+    {
+        "id":2,
+        "group_id":1,
+        "count":2,
+        "sentence": "____ he told you isn't true.",
+        "options":"What,Weather",
+        "answer":"What",
+        "analysis":"What为复合，引导名词字句做主词。",
+        "remark":"【西松高中】",
+        "have_video":2,
+        "is_collect":false
     }
 
 ]

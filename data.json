@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "group_id":1,
+        "sentence": "David denied ___the money.",
+        "is_collect":true
+    },
+    {
+        "id":2,
+        "group_id":1,
+        "sentence": "David denied ___the money.",
+        "is_collect":false
+    }
+]

@@ -3,6 +3,7 @@
         "id":1,
         "group_id":1,
         "count":1,
+        "title":"TEST1",
         "sentence": "David denied__the money.",
         "options":"stealing,to steal",
         "answer":"stealing",
@@ -15,6 +16,7 @@
         "id":2,
         "group_id":1,
         "count":2,
+        "title":"TEST1",
         "sentence": "__he told you isn't true.",
         "options":"What,Weather",
         "answer":"What",
@@ -22,6 +24,112 @@
         "remark":"【西松高中】",
         "have_video":2,
         "is_collect":false
+    },
+    {
+        "id":3,
+        "group_id":1,
+        "count":3,
+        "title":"TEST1",
+        "sentence": "Are you going to leave the door__?",
+        "options":"opened,open",
+        "answer":"open",
+        "analysis":"补语用形容词open（开着的），表状态。",
+        "remark":"【三重高中】",
+        "have_video":3,
+        "is_collect":false
+    },
+    {
+        "id":4,
+        "group_id":1,
+        "count":4,
+        "title":"TEST1",
+        "sentence": "Please keep the door__.",
+        "options":"closed,close",
+        "answer":"closed",
+        "analysis":"close当动词表“关闭”，当形容词是“靠近”，句意、用法皆不合。",
+        "remark":"",
+        "have_video":4,
+        "is_collect":false
+    },
+    {
+        "id":5,
+        "group_id":1,
+        "count":5,
+        "title":"TEST1",
+        "sentence": "What__ you cry?",
+        "options":"caused,made",
+        "answer":"made",
+        "analysis":"由受词后的原形动词可知，空格需要使役动词made，caused为一般动词，接受词后要用to do。",
+        "remark":"【永平高中】",
+        "have_video":5,
+        "is_collect":true
+    },
+    {
+        "id":6,
+        "group_id":1,
+        "count":6,
+        "title":"TEST1",
+        "sentence": "__things carefully.",
+        "options":"Observe,To observe",
+        "answer":"Observe",
+        "analysis":"命令句用原形动词。",
+        "remark":"【北京大学】",
+        "have_video":6,
+        "is_collect":true
+    },
+    {
+        "id":7,
+        "group_id":1,
+        "count":7,
+        "title":"TEST1",
+        "sentence": "Do you feel like__for a swim?",
+        "options":"to go,going",
+        "answer":"going",
+        "analysis":"feel like doing...想要做某事。",
+        "remark":"【陕西大学】",
+        "have_video":7,
+        "is_collect":false
+    },
+    {
+        "id":8,
+        "group_id":1,
+        "count":8,
+        "title":"TEST1",
+        "sentence": "I will be back__ten minutes.",
+        "options":"in,after",
+        "answer":"in",
+        "analysis":"in用于未来式，表示“再过...时间”。",
+        "remark":"【日本爱知工大】",
+        "have_video":8,
+        "is_collect":false
+    },
+    {
+        "id":9,
+        "group_id":1,
+        "count":9,
+        "title":"TEST1",
+        "sentence": "__anything happens,call me immediately.",
+        "options":"In case,Even though",
+        "answer":"In case",
+        "analysis":"in case万一、如果；even though即使，虽然。。",
+        "remark":"【四川大学】",
+        "have_video":9,
+        "is_collect":false
+    },
+    {
+        "id":10,
+        "group_id":1,
+        "count":10,
+        "title":"TEST1",
+        "sentence": "She sat__her children.",
+        "options":"surrounded by,surrounding",
+        "answer":"surrounded by",
+        "analysis":"依照句意是被动，用surrounded by作补语。",
+        "remark":"【日本西南院大】",
+        "have_video":10,
+        "is_collect":false
     }
+    
+    
 
 ]
